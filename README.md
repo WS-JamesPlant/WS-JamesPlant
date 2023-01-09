@@ -26,6 +26,6 @@ I fully believe in creating a safe and fun environment for developers to work in
 
 ## My Stats
 
-![James Plant's github stats](https://github-readme-stats.vercel.app/api?username=WS-JamesPlant&count_private=true&hide=stars,issues,contribs,prs&show_icons=true&theme=tokyonight)
+![James Plant's github stats](https://github-readme-stats.vercel.app/api?username=WS-JamesPlant&count_private=true&hide=stars,issues,contribs,prs&show_icons=true&theme=highcontrast)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WS-JamesPlant&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WS-JamesPlant&theme=highcontrast)
