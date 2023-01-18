@@ -15,14 +15,7 @@ I fully believe in creating a safe and fun environment for developers to work in
 
 ## My Tech Stack
 
-- Next.js
-- Tailwindcss
-- React
-- Node
-- Laravel
-- PHP
-- Docker
-- Buddy.works
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,tailwind,bootstrap,vercel,go,php,laravel,mysql,docker,cloudflare,github,regex,vscode)
 
 ## My Stats
 
